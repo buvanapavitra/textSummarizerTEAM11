@@ -1,4 +1,4 @@
-# Automatic Text Summarizer
+# TEXT SUMMARIZATION WEB APPLICATION
 
 
 ## Features:
