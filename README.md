@@ -1,12 +1,10 @@
 # Automatic Text Summarizer
 
-A text summarizer web app with multiple features.<br>
-Quick Demo: http://automatictextsummarizer.herokuapp.com
+
 ## Features:
-- Summarize both English and Nepali text.
+- Summarize both English and Tamil text.
 - Summarize text via either copy-paste paragraph or URL.
 - User can save summarized text.
-- View top 5 trending summarized news from BBC, CNN and Nagarik News.
 - Summarize pdf file to text file.
 
 User can choose one of the following algorithms for text summarization:
@@ -21,7 +19,7 @@ User can choose one of the following algorithms for text summarization:
 ## Installation
 
 1. Go to folder you want to put the cloned project in your terminal & type: <br>
-    `git clone https://github.com/xanjay/Automatic-Text-Summarizer.git`
+    `git clone https://github.com/buvanapavitra/textSummarizerTEAM11.git`
 
 2. Install the project dependencies:<br>
     `pip install -r requirements.txt`
